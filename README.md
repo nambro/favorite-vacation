@@ -1,11 +1,11 @@
 # My favorite vacation spot
 
-![Columbia Gorge, Oregon](https://cdn.pixabay.com/photo/2016/10/07/13/17/columbia-river-1721556_960_720.jpg)
+![Columbia River Gorge, Oregon](https://cdn.pixabay.com/photo/2016/10/07/13/17/columbia-river-1721556_960_720.jpg)
 
-## The Columbia Gorge
+## The Columbia River Gorge
 The Columbia Gorge is, in my opinion, **the greatest kept secret in the United States**.
 
-Outdoor Project
+###Outdoor Project
 ---------------
 
 Just look at what Kat Dierickx has to say about the Columbia River Gorge in his [write up for the Outdoor Project](https://www.outdoorproject.com/blog-news/hiking-columbia-river-gorge)
