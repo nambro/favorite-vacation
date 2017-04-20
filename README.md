@@ -5,7 +5,7 @@
 ## The Columbia River Gorge
 The Columbia Gorge is, in my opinion, **the greatest kept secret in the United States**.
 
-###Outdoor Project
+### Outdoor Project
 ---------------
 
 Just look at what Kat Dierickx has to say about the Columbia River Gorge in his [write up for the Outdoor Project](https://www.outdoorproject.com/blog-news/hiking-columbia-river-gorge)
