@@ -8,6 +8,6 @@ The Columbia Gorge is, in my opinion, **the greatest kept secret in the United S
 Outdoor Project
 ---------------
 
-Just look at what Kat Dierickx has to say about the Columbia River Gorge in his (write up for the Outdoor Project)[https://www.outdoorproject.com/blog-news/hiking-columbia-river-gorge]
+Just look at what Kat Dierickx has to say about the Columbia River Gorge in his [write up for the Outdoor Project](https://www.outdoorproject.com/blog-news/hiking-columbia-river-gorge)
 
 *The canyon stretches in excess of 80 miles as it passes directly through the Cascade Range, forming a nearly sea-level passage through outcroppings that loom as much as 4,000 feet above the river. Whether you're looking for a family-friendly hike, a good workout, wildflowers, or a 600-foot waterfall, you'll find it all in the Columbia River Gorge.*   
